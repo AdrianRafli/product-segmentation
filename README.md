@@ -1,13 +1,13 @@
 # Segmentasi Produk UMKM Puntadewa
 
-Repository ini berisi kode untuk segmentasi produk UMKM Puntadewa menggunakan algoritma **K-Means Clustering**. Kami telah mengembangkan algoritma ini untuk membantu mengelompokkan produk ke dalam beberapa kategori berdasarkan karakteristik tertentu.
+Repository ini berisi kodingan untuk segmentasi produk UMKM Puntadewa menggunakan algoritma **K-Means Clustering**. Kami menggunakan algoritma ini untuk membantu mengelompokkan produk ke dalam beberapa kategori berdasarkan karakteristik data penjualan dari UMKM Puntadewa.
 
 ## Deskripsi Proyek
 
 - **Tujuan**: Mengelompokkan produk dari UMKM Puntadewa menjadi 3 cluster utama:
-  - Makanan
-  - Minuman
-  - Lainnya
+  - Cluster 0
+  - Cluser 1
+  - Cluster 2
 
 - **Algoritma yang Digunakan**: K-Means Clustering dengan 3 cluster.
 - **Bahasa Pemrograman**: Python
